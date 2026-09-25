@@ -21,3 +21,11 @@ This log catalogs expired, non-renewed, or maximum-lifespan USPTO patents system
 *   **Target Search Core:** (bicycle OR handlebar) AND (mount OR bracket) AND quick-release
 *   **Application Vector:** Adaptation of heavy-duty, anti-vibration mechanical bracket designs to secure the SAGE Bike Unit frame enclosure directly onto bicycle handlebars or mobile chassis components. The snap-fit interlocking mechanism allows for immediate physical egress and secure retention without reliance on electronic locks or motorized components.
 *   
+## Entry 002: Mechanical Privacy Shutter Primitive
+*   **Target Search Core:** (camera OR lens) AND (shutter OR slider) AND mechanical AND privacy
+*   **Application Vector:** Implementation of a software-isolated physical slider plate over the primary optical sensor of the SAGE Situated Companion. By integrating a strictly mechanical slide track directly into the hardware enclosure casing, the permission boundary remains completely un-hackable from remote network nodes, enforcing data sovereignty at the physical hardware layer.
+
+## Entry 003: Interlocking Quick-Release Vehicle Mount Primitive
+*   **Target Search Core:** (bicycle OR handlebar) AND (mount OR bracket) AND quick-release
+*   **Application Vector:** Adaptation of heavy-duty, anti-vibration mechanical bracket designs to secure the SAGE Bike Unit frame enclosure directly onto bicycle handlebars or mobile chassis components. The snap-fit interlocking mechanism allows for immediate physical egress and secure retention without reliance on electronic locks or motorized components.
+*   
