@@ -1,4 +1,4 @@
-# 📄 The Systemic Asphyxiation Framework: The Institutional Enclosure Act
+# The Systemic Asphyxiation Framework: The Institutional Enclosure Act
 **Author:** Socio-Technical Systems Accountability Engineer  
 **Classification:** Open-Source Socio-Technical Policy Framework & Systemic Risk Analysis  
 **Repository State:** Production-Ready Blueprint  
