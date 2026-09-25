@@ -60,3 +60,32 @@ This registry tracks the foundational human contributions salvaged by the Civic 
 *   **The Architect's Vision:** Hoffberg designed an advanced system for determining contingent relevance based on localized environmental context, allowing a device to think contextually.
 *   **Civic Continuum Integration:** We honor Steven M. Hoffberg's architecture by utilizing his local relevance parameters to run SAGE's data evaluation entirely on-device, preventing user information from ever being hoarded by corporate cloud networks. Thank you, Steven.
 *   
+# 🧵 The Civic Quilt: Public Domain Component Registry
+
+This registry tracks the foundational human contributions salvaged by the Civic Continuum. Under the legacy 35 U.S.C. § 41(b) framework, independent inventors are systematically "starved out" of their intellectual property via an escalating wall of corporate maintenance fees (\$2,150, \$4,040, and \$8,280) that forces roughly 60% of patentees into early abandonment. 
+
+We do not view these public-domain primitives as abandoned property, but as brilliant panels of human innovation. We permanently honor the original architects by weaving their names into the SAGE Situated Companion ecosystem, ensuring their legacies are never erased by institutional corporate systems.
+
+---
+
+## Panel 001: The Contactless Handshake & Rule Logic
+*   **Original Inventor:** Ned Hoffman (Sebastopol, California)
+*   **Patent Designation:** `US 11288666 B1`
+*   **The Architect's Vision:** Hoffman engineered a brilliant framework for real-time transactions using a single universal token and a remotely located rule-module clearinghouse. 
+*   **Civic Continuum Integration:** We honor Ned Hoffman's architecture by adapting his wireless proximity layouts and emergency "False Screen" logic to protect human components from physical and systemic coercion within the SAGE runtime. Thank you, Ned.
+
+---
+
+## Panel 002: The Adaptive Edge Architecture
+*   **Original Inventor:** Steven M. Hoffberg (West Harrison, New York)
+*   **Patent Designation:** `US 9818136 B1`
+*   **The Architect's Vision:** Hoffberg designed an advanced system for determining contingent relevance based on localized environmental context, allowing a device to think contextually.
+*   **Civic Continuum Integration:** We honor Steven M. Hoffberg's architecture by utilizing his local relevance parameters to run SAGE's data evaluation entirely on-device, preventing user information from ever being hoarded by corporate cloud networks. Thank you, Steven.
+
+---
+
+## Panel 003: The Ergonomic Chassis & Modular Vehicle Interlock
+*   **Original Component Core:** (bicycle OR handlebar) AND (mount OR bracket) AND quick-release
+*   **The Architect's Vision:** Legacy engineers codified structural parameters for durable, anti-vibration vehicle brackets and interlocking, quick-release mechanical docks designed to retain physical hardware securely under high stress.
+*   **Civic Continuum Integration:** We claim these mechanical parameters to build the SAGE Bike Unit frame mount. By utilizing an interlocking, snap-fit physical bracket on bicycle handlebars and seat posts, we establish high-mobility physical security for the device without relying on electronic or corporate-controlled locks.
+*   
