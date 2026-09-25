@@ -1,4 +1,4 @@
-# 📄 Historical Failure Modes of Accountability Movements and Asymmetric Countermeasures
+# Historical Failure Modes of Accountability Movements and Asymmetric Countermeasures
 **Author:** Socio-Technical Systems Accountability Engineer  
 **Classification:** Open-Source Socio-Technical Policy Framework & Systemic Risk Analysis  
 **Repository State:** Production-Ready Component / `HISTORICAL_FAILURE_MODES.md`  
