@@ -46,7 +46,13 @@ To dismantle an exploitative architecture protected by a monopoly on physical fo
 ---
 
 ## 4. The Uninsurable Liability Trigger (The Snuffer)
-This phase introduces the primary legal and economic containment mechanism designed to extinguish consequence-free corporate exploitation. It directly targets the primary vector of elite survival: **The Corporate Shield.**
+This phase introduces the primary legal and economic containment mechanism designed to extinguish consequence-free corporate exploitation. It directly targets the primary vector of elite survival: **The Corporate Shield.** 
+### IV. Strict Dynamic Attribution (The Anti-Worming Clauses)
+To prevent cross-jurisdictional evasion and algorithmic blame-shifting, the framework enforces three absolute legal realities:
+
+1. **The Single Economic Unit Doctrine:** If an offshore shell company owns the synthetic proxy, but the local executive benefits from its capital velocity, the offshore boundary is legally dissolved. Liability automatically anchors to the beneficial human owner.
+2. **The Autonomous Intent Rule:** The defense of "algorithmic opacity" is invalid. If an institution deploys an AI system that is too complex to audit, the executive is legally categorized as having deployed an uncontrolled, hazardous agent. Lack of machine visibility equals immediate criminal negligence.
+3. **The Non-Automation Baseline:** If an organization's human workforce falls below a critical localized threshold, the asset liquidations and generational clawbacks trigger automatically, bypassing corporate courts entirely and routing capital directly back into the civic loop.
 
 ### I. Mandated Piercing of the Corporate Veil
 * **Protocol:** Legislative codification dictating that if an executive, board member, or majority shareholder signs off on a policy, code deployment, or operational optimization that predictably results in human mortality, community displacement, or systematic contractual fraud, **the corporation ceases to exist as a legal shield.**
