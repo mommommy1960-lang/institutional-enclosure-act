@@ -91,3 +91,9 @@ By converting abandoned corporate intellectual property into permanent, immutabl
 5. **Graeber, D.** (2011). *Debt: The First 5,000 Years*. Melville House. (Documenting the historic weaponization of debt to enforce labor leverage and artificial scarcity).
 6. **Bakan, J.** (2004). *The Corporation: The Pathological Pursuit of Profit and Power*. Free Press. (Analyzing the legal mechanics of the corporate shield and how it insulates executives from direct legal liability for human harm).
 7. **Coffee, J. C.** (1981). *“No Soul to Damn: No Body to Kick”: An Unscandalized
+
+### 🛡️ USPTO Statutory Status Declaration
+*   **Inventor Tier:** Solo Independent Human Component
+*   **Fee Status Classification:** **Micro Entity Status Eligible** (Under 35 U.S.C. § 41(h))
+*   **Legal Parameter Affirmation:** This repository, its architecture files, and associated logs are explicitly structured for review by matched pro bono patent counsel under the Washington State-TILE Patent Pro Bono Program. All filings associated with the Civic Continuum and SAGE initiatives satisfy the gross income and application limits necessary to claim the 80% statutory fee reduction tier.
+*   
