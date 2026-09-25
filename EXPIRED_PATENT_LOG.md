@@ -40,3 +40,23 @@ This log catalogs expired, non-renewed, or maximum-lifespan USPTO patents system
 1. **Local Context Processing:** Adoption of the localized communication-state processing protocols to allow the SAGE software runtime to securely evaluate sensor telemetry entirely at the edge-computing device layer, completely bypassing centralized cloud dependency.
 2. **Dynamic Utility Modeling:** Utilizing the patent's data-relevance framework to automate user-permission handshakes, ensuring that the system only opens data lanes when explicit physical conditions are met.
 3. 
+# 🧵 The Civic Quilt: Public Domain Component Registry
+
+This registry tracks the foundational human contributions salvaged by the Civic Continuum. We do not view these public-domain primitives as abandoned property, but as brilliant panels of human innovation. We permanently honor the original architects by weaving their names into the SAGE Situated Companion ecosystem, ensuring their legacies are never erased by institutional corporate systems.
+
+---
+
+## Panel 001: The Contactless Handshake & Rule Logic
+*   **Original Inventor:** Ned Hoffman (Sebastopol, California)
+*   **Patent Designation:** `US 11288666 B1`
+*   **The Architect's Vision:** Hoffman engineered a brilliant framework for real-time transactions using a single universal token and a remotely located rule-module clearinghouse. 
+*   **Civic Continuum Integration:** We honor Ned Hoffman's architecture by adapting his wireless proximity layouts and emergency "False Screen" logic to protect human components from physical and systemic coercion within the SAGE runtime. Thank you, Ned.
+
+---
+
+## Panel 002: The Adaptive Edge Architecture
+*   **Original Inventor:** Steven M. Hoffberg (West Harrison, New York)
+*   **Patent Designation:** `US 9818136 B1`
+*   **The Architect's Vision:** Hoffberg designed an advanced system for determining contingent relevance based on localized environmental context, allowing a device to think contextually.
+*   **Civic Continuum Integration:** We honor Steven M. Hoffberg's architecture by utilizing his local relevance parameters to run SAGE's data evaluation entirely on-device, preventing user information from ever being hoarded by corporate cloud networks. Thank you, Steven.
+*   
