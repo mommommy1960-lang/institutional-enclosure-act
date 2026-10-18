@@ -97,3 +97,8 @@ By converting abandoned corporate intellectual property into permanent, immutabl
 *   **Fee Status Classification:** **Micro Entity Status Eligible** (Under 35 U.S.C. § 41(h))
 *   **Legal Parameter Affirmation:** This repository, its architecture files, and associated logs are explicitly structured for review by matched pro bono patent counsel under the Washington State-TILE Patent Pro Bono Program. All filings associated with the Civic Continuum and SAGE initiatives satisfy the gross income and application limits necessary to claim the 80% statutory fee reduction tier.
 *   
+
+
+## Mutual collaboration boundaries
+
+Before protected exchange or shared work, read our [collaboration boundaries](https://github.com/mommommy1960-lang/commons-sentience-sandbox/blob/main/docs/continuity/PUBLIC_COLLABORATION_BOUNDARIES.md). Both parties retain their existing rights; scope, confidentiality, contributions, access and exit must be agreed for the actual engagement. Existing licenses and lawful reporting rights remain unaffected. This operating notice is not an executed contract.

@@ -1,23 +1,19 @@
-# 🤝 Protocols for Systemic Contribution
+# Contribution and disclosure boundaries
 
-We welcome data engineers, socio-technical analysts, policy creators, and whistleblowers. To protect your safety while compiling undeniable public proof against elite capture, strictly follow these operational protocols.
+This repository accepts analysis based on lawfully available public sources and synthetic examples. Use factual, supported statements and distinguish findings from allegations.
 
-## Submission Guidelines
+## Public submissions
 
-### 1. Data Integrity and Validation
-* Every reported exploitation event must conform completely to the specifications in `DATA_SCHEMA.md`.
-* Provide verifiable public documentation (SEC filings, public news reports, leaked internal circulars, or redacted legal letters) to back up every metric line.
+GitHub issues, pull requests and commit history are public. Do not submit confidential employer documents, trade secrets, credentials, personal data, unpublished inventions or other restricted material here. Redaction or metadata removal alone does not guarantee anonymity or lawful disclosure. Submit only material you have authority to share, with verifiable public sources and clear provenance.
 
-### 2. Operational Security (OpSec) for Whistleblowers
-If you are submitting non-public corporate data from inside an organization:
-* **DO NOT** use your corporate network, corporate device, or personal home IP address to commit to this repository.
-* Strip all metadata (EXIF data, tracking pixels, author names) from any uploaded PDF documents or images.
-* Submit data payloads using specialized privacy routing mechanisms or secure, anonymous secondary accounts.
+## No verified confidential submission portal
 
-## Code of Conduct
-This repository is a cold, technical, and legally precise machine. We isolate systemic corruption using strict data architecture. Maintain objective, professional engineering language in all issues, pull requests, and file updates. Emotional venting should be converted directly into standardized JSON telemetry.
+The previous portal entry was a placeholder. No encrypted anonymous upload service, automatic IP-address removal or offline routing has been verified for this project. Those earlier statements should not be relied on. Do not send sensitive files to an unverified destination or assume a platform can keep you anonymous.
 
-## 🔒 Secure Anonymous Upload Portal
-For whistleblowers who prefer not to submit via GitHub Pull Requests, use our external, end-to-end encrypted submission portal:
-* **Portal Link:** `[INSERT YOUR CHOSEN FORM URL HERE]`
-* Submissions through this form are automatically stripped of IP addresses and routed directly into our offline auditing environments.
+People considering reporting suspected wrongdoing should seek qualified advice and use appropriate official or legally protected reporting channels. These contribution rules do not prohibit lawful protected reporting or create immunity for unauthorized access.
+
+## Mutual collaboration
+
+Your original work remains yours subject to applicable law and existing licenses. Do not assume that submitting a comment transfers ownership, creates a partnership or guarantees integration or publication. Confidential collaboration, shared development and broader permissions require appropriate separate written terms before starting.
+
+Read the [Civic Continuum collaboration boundaries](https://github.com/mommommy1960-lang/commons-sentience-sandbox/blob/main/docs/continuity/PUBLIC_COLLABORATION_BOUNDARIES.md). No private collaboration or confidential intake is authorized by this public page.
